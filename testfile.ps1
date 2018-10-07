@@ -1,1 +1,1 @@
-Get-ChildItem
+Get-ChildItem C:\MSMoney
